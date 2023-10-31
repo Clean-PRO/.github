@@ -139,6 +139,16 @@ ___
 
 👸 [Василина](<https://t.me/angry_h_h_hamster/>)
 
+### КОМАНДА BACKEND
+
+🦸🏻‍♂️ [Кирилл](<https://github.com/TheSuncatcher222/>)
+
+🧙🏻‍♀️ [Виктор](<https://github.com/VictorTsyganov/>)
+
+🥷 [Владимир](<https://github.com/Star-memory/>)
+
+🧚‍♀️ [Регина](<https://github.com/Reginababaika/>)
+
 ### КОМАНДА FRONTEND
 
 🧝‍♀️[Виктория](<https://github.com/ElPastel/>)
@@ -151,20 +161,6 @@ ___
 
 🧛‍♂️[Кирилл](<https://github.com/h1ze/>)
 
-### КОМАНДА BACKEND
-
-🦸🏻‍♂️ [Кирилл](<https://github.com/TheSuncatcher222/>)
-
-🧙🏻‍♀️ [Виктор](<https://github.com/VictorTsyganov/>)
-
-🥷 [Владимир](<https://github.com/Star-memory/>)
-
-🧚‍♀️ [Регина](<https://github.com/Reginababaika/>)
-
-### КОМАНДА SYSTEMS ANALYST
-
-👨‍⚖️ [Вячеслав](<https://t.me/t_me_vs/>)
-
 ### КОМАНДА QA
 
 🕵️‍♂️ [Дмитрий](<https://github.com/GitDym/>)
@@ -173,12 +169,15 @@ ___
 
 👩‍🔬 [Наталья](<https://github.com/Natalya-Anisimova/>)
 
+### КОМАНДА SYSTEMS ANALYST
+
+👨‍⚖️ [Вячеслав](<https://t.me/t_me_vs/>)
+
 ### КОМАНДА UX/UI
 
 👩‍🎨 [Анна](<https://www.behance.net/annadoronina1>)
 
 👩‍🎤 [Александра](<https://www.behance.net/45f9501f>)
-
 
 [Python]: <https://www.python.org/>
 [Django]: <https://www.djangoproject.com/>
