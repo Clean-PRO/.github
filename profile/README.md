@@ -203,6 +203,6 @@ ___
 [Redux]: <https://redux.js.org/>
 [SCSS]: <https://sass-lang.com/>
 
-[Главная страница]: <https://cleanpro.webtm.ru/>
-[API документация]: <https://cleanpro.webtm.ru/docs/swagger/>
+[Главная страница]: <https://cleanpro.sytes.net/>
+[API документация]: <https://cleanpro.sytes.net/docs/swagger/>
 [Figma]: <https://www.figma.com/file/HJHGNY1PYZ7IC4a4SlqhdK/%D0%97%D0%B0%D0%BA%D0%B0%D0%B7-%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D0%B0?type=design&node-id=49%3A87&mode=design&t=H31Q1xRNAieSXz5x-1/>
